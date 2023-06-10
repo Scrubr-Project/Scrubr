@@ -16,6 +16,7 @@ Scrubr is a full-stack web application that offers on-demand cleaning services. 
 
 - **React**: The front-end of the application is built using React, a popular JavaScript library for building user interfaces.
 - **Supabase**: Supabase provides a Postgres database with built-in authentication and real-time capabilities.
+- **Material-UI**: Material-UI is a React UI framework based on Material Design, offering a wide range of customizable components for building visually appealing user interfaces.
 - **Express**: Express is a fast and minimalist web application framework for Node.js, used to create the server-side of the application.
 - **Stripe**: Stripe is a widely used payment processing platform that enables secure and seamless online transactions.
 - **Google Maps API**: The Google Maps API is used for order location tracking, providing accurate information on the order's progress and estimated arrival times.
