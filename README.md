@@ -1,4 +1,4 @@
-# Scrubr
+# Scrubr (Author: WSChong33 & 15554lore)
 
 Scrubr is a full-stack web application that offers on-demand cleaning services. It leverages the power of React and Supabase as the database to provide a seamless user experience. The application utilizes various APIs and technologies, including Express for server-side development, Stripe for payment processing, Google Maps for order location tracking, and Sendinblue for sending SMTP emails to users for receipts confirmation.
 
