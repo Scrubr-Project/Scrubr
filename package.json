@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "supabase": "^1.52.2"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@stripe/react-stripe-js": "^2.1.0",
+    "@stripe/stripe-js": "^1.52.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "g": "^2.0.1",
+    "stripe": "^12.3.0"
+  },
+  "proxy": "http://127.0.0.1:4242/",
+  "type": "module"
+}

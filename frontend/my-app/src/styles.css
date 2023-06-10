@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .App {
+    font-family: sans-serif;
+    width: 100%;
+    min-height: 100vh;
+  }
+  
+  .App .navbar {
+    width: 100%;
+    min-height: 8vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    background: rgba(29, 161, 242, 1);
+  }
+  
+  .App .navbar .nav-links {
+    width: 23%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+  }
+  .nav-link{
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.2s ease-out;
+    border-radius: 50px;
+    background-color: transparent;
+    text-overflow: ellipsis; 
+    white-space: nowrap
+  }
+
+  .nav-link-name {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.2s ease-out;
+    border-radius: 50px;
+    background-color: transparent;
+    text-overflow: ellipsis; 
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  #sign-up {
+    background-color: #f5f5f5;
+    color: #000;
+  }
+
+  #sign-up:hover {
+    background-color: #E0E0E0;
+  }
+
+  .nav-link:hover {
+    background-color: rgba(128, 128, 128, 0.5);
+  }
+
+  .nav-link-name:hover {
+    background-color: rgba(128, 128, 128, 0.5);
+  }
